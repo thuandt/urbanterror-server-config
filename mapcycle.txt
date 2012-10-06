@@ -1,4 +1,4 @@
-ut4_ramelle
+ut4_swim
 {
   g_gametype "3"
   g_gear "0"
@@ -13,17 +13,22 @@ ut4_abbey
   g_gametype "7"
   g_gear "0"
 }
+ut4_dressingroom
+{
+  g_gametype "3"
+  g_gear "54"
+}
+ut4_algiers
+{
+  g_gametype "7"
+  g_gear "0"
+}
 ut4_sanc
 {
   g_gametype "0"
   g_gear "0"
 }
 ut4_subway
-{
-  g_gametype "3"
-  g_gear "0"
-}
-ut4_swim
 {
   g_gametype "3"
   g_gear "0"
@@ -38,7 +43,7 @@ ut4_uptown
   g_gametype "7"
   g_gear "0"
 }
-ut4_algiers      
+ut4_prague
 {
   g_gametype "3"
   g_gear "0"
@@ -48,14 +53,14 @@ ut4_dressingroom
   g_gametype "3"
   g_gear "54"
 }
-ut4_austria  
+ut4_swim
 {
-  g_gametype "3"
+  g_gametype "5"
   g_gear "0"
 }
-ut4_algiers      
+ut4_austria
 {
-  g_gametype "7"
+  g_gametype "3"
   g_gear "0"
 }
 ut4_mandolin
@@ -63,14 +68,9 @@ ut4_mandolin
   g_gametype "3"
   g_gear "0"
 }
-ut4_austria  
-{
-  g_gametype "0"
-  g_gear "0"
-}
 ut4_kingdom
 {
-  g_gametype "3"
+  g_gametype "5"
   g_gear "0"
 }
 ut4_dressingroom
@@ -78,29 +78,19 @@ ut4_dressingroom
   g_gametype "3"
   g_gear "54"
 }
-ut4_company      
+ut4_sanc
 {
   g_gametype "3"
   g_gear "0"
 }
-ut4_swim
+ut4_company
+{
+  g_gametype "3"
+  g_gear "0"
+}
+ut4_suburbs
 {
   g_gametype "5"
-  g_gear "0"
-}
-ut4_suburbs 
-{
-  g_gametype "3"
-  g_gear "0"
-}
-ut4_turnpike   
-{
-  g_gametype "3"
-  g_gear "0"
-}
-ut4_uptown
-{
-  g_gametype "3"
   g_gear "0"
 }
 ut4_turnpike
@@ -108,12 +98,32 @@ ut4_turnpike
   g_gametype "7"
   g_gear "0"
 }
+ut4_uptown
+{
+  g_gametype "7"
+  g_gear "0"
+}
+ut4_dressingroom
+{
+  g_gametype "3"
+  g_gear "54"
+}
+ut4_algiers
+{
+  g_gametype "5"
+  g_gear "0"
+}
+ut4_turnpike
+{
+  g_gametype "5"
+  g_gear "0"
+}
 ut4_tunis
 {
   g_gametype "0"
   g_gear "0"
 }
-ut4_riyadh    
+ut4_riyadh
 {
   g_gametype "3"
   g_gear "0"
@@ -133,7 +143,7 @@ ut4_sanc
   g_gametype "3"
   g_gear "0"
 }
-ut4_turnpike   
+ut4_turnpike
 {
   g_gametype "5"
   g_gear "0"
